@@ -1,3 +1,3 @@
 # Docker MySQL Node.js React.js App
 
-![App](https://github.com/prasad0808/3tier_app/blob/main/App.png)
+![App](https://github.com/vijays09/3Tier-App/blob/main/App.png)
